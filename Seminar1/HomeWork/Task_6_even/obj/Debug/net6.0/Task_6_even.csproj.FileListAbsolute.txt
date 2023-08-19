@@ -1,0 +1,15 @@
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\obj\Debug\net6.0\Task_6_even.csproj.AssemblyReference.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\obj\Debug\net6.0\Task_6_even.GeneratedMSBuildEditorConfig.editorconfig
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\obj\Debug\net6.0\Task_6_even.AssemblyInfoInputs.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\obj\Debug\net6.0\Task_6_even.AssemblyInfo.cs
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\obj\Debug\net6.0\Task_6_even.csproj.CoreCompileInputs.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\bin\Debug\net6.0\Task_6_even.exe
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\bin\Debug\net6.0\Task_6_even.deps.json
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\bin\Debug\net6.0\Task_6_even.runtimeconfig.json
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\bin\Debug\net6.0\Task_6_even.dll
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\bin\Debug\net6.0\Task_6_even.pdb
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\obj\Debug\net6.0\Task_6_even.dll
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\obj\Debug\net6.0\refint\Task_6_even.dll
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\obj\Debug\net6.0\Task_6_even.pdb
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\obj\Debug\net6.0\Task_6_even.genruntimeconfig.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_6_even\obj\Debug\net6.0\ref\Task_6_even.dll

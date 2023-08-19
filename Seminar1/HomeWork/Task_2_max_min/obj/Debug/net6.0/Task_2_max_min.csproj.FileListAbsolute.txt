@@ -1,0 +1,15 @@
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\bin\Debug\net6.0\Task_2_max_min.exe
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\bin\Debug\net6.0\Task_2_max_min.deps.json
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\bin\Debug\net6.0\Task_2_max_min.runtimeconfig.json
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\bin\Debug\net6.0\Task_2_max_min.dll
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\bin\Debug\net6.0\Task_2_max_min.pdb
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\obj\Debug\net6.0\Task_2_max_min.csproj.AssemblyReference.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\obj\Debug\net6.0\Task_2_max_min.GeneratedMSBuildEditorConfig.editorconfig
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\obj\Debug\net6.0\Task_2_max_min.AssemblyInfoInputs.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\obj\Debug\net6.0\Task_2_max_min.AssemblyInfo.cs
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\obj\Debug\net6.0\Task_2_max_min.csproj.CoreCompileInputs.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\obj\Debug\net6.0\Task_2_max_min.dll
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\obj\Debug\net6.0\refint\Task_2_max_min.dll
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\obj\Debug\net6.0\Task_2_max_min.pdb
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\obj\Debug\net6.0\Task_2_max_min.genruntimeconfig.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_2_max_min\obj\Debug\net6.0\ref\Task_2_max_min.dll

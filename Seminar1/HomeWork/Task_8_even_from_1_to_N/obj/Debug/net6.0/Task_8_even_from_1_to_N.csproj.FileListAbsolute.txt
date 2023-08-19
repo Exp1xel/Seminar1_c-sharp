@@ -1,0 +1,15 @@
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\bin\Debug\net6.0\Task_8_even_from_1_to_N.exe
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\bin\Debug\net6.0\Task_8_even_from_1_to_N.deps.json
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\bin\Debug\net6.0\Task_8_even_from_1_to_N.runtimeconfig.json
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\bin\Debug\net6.0\Task_8_even_from_1_to_N.dll
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\bin\Debug\net6.0\Task_8_even_from_1_to_N.pdb
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\obj\Debug\net6.0\Task_8_even_from_1_to_N.csproj.AssemblyReference.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\obj\Debug\net6.0\Task_8_even_from_1_to_N.GeneratedMSBuildEditorConfig.editorconfig
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\obj\Debug\net6.0\Task_8_even_from_1_to_N.AssemblyInfoInputs.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\obj\Debug\net6.0\Task_8_even_from_1_to_N.AssemblyInfo.cs
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\obj\Debug\net6.0\Task_8_even_from_1_to_N.csproj.CoreCompileInputs.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\obj\Debug\net6.0\Task_8_even_from_1_to_N.dll
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\obj\Debug\net6.0\refint\Task_8_even_from_1_to_N.dll
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\obj\Debug\net6.0\Task_8_even_from_1_to_N.pdb
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\obj\Debug\net6.0\Task_8_even_from_1_to_N.genruntimeconfig.cache
+W:\Common Things\education_C#\Seminars\Seminar1\HomeWork\Task_8_even_from_1_to_N\obj\Debug\net6.0\ref\Task_8_even_from_1_to_N.dll
