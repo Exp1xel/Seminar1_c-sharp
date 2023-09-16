@@ -9,7 +9,7 @@ int InputNum (string message){
 void FillArray(double[] arr, int min, int max){
 
     for (int i = 0; i < arr.Length; i++)
-        arr[i] = Math.Round(new Random().NextDouble() * new Random().Next(min, max), 2);
+        arr[i] = Math.Round(new Random().NextDouble() + new Random().Next(min, max), 2);
 }
 
 void PrintArray(double[] arr){
@@ -28,6 +28,8 @@ double Difference(double[] arr){
         else if (arr[i] < min)
             min = arr[i];
     }
+    Console.WriteLine($"Максимум = {max}");
+    Console.WriteLine($"Минимум = {min}");
     return max - min;
 }
 
@@ -37,4 +39,4 @@ int maximum = InputNum("Введите максимальную границу �
 double[] array = new double[size];
 FillArray(array, minimun, maximum);
 PrintArray(array);
-Console.WriteLine($"Раница между максимальным и минимальным значением = {Difference(array)}");
+Console.WriteLine($"Разница между максимальным и минимальным значением = {Math.Round(Difference(array), 3)}");
