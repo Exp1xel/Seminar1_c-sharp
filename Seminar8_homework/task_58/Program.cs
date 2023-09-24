@@ -52,7 +52,7 @@ void Print2DArray(int [,] array)
  
 bool CheckProductPossib(int[,] arr1, int[,] arr2)
 {
-    return (arr1.GetLength(1) != arr2.GetLength(0)) ? true : false;
+    return arr1.GetLength(1) != arr2.GetLength(0);
 }
 
 //В условии ничего не сказано про границы,

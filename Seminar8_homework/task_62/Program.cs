@@ -29,22 +29,34 @@ void Fill2dArray(int[,] array, int size)
             {
                 array[i,j] = ++count;
             }
-            else if (i == 1 || i == 2)
+            else if (i == 1)
             {
                 if (j == array.GetLength(1) - 1)
                 {
-                    array[i,j] = 5;
+                    array[i,j] = count;
                 }
                 else
                 {
-                    array[i,j] = size - count;
+                    array[i,j] = size - array.GetLength(1) + j;
+                    count++;
+                }
+            }
+            else if (i == 2)
+            {
+                if (j == array.GetLength(1) - 1)
+                {
+                    array[i,j] = count;
+                }
+                else
+                {
+                    array[i,j] = size - array.GetLength(1) + j;
                     count++;
                 }
             }
             
 }
 
-/*int MinRowSum(int[,] array)
+int MinRowSum(int[,] array)
 {
     int[] temp = new int[array.GetLength(1)];
     int min = 0;
@@ -63,7 +75,7 @@ void Fill2dArray(int[,] array, int size)
     Console.WriteLine("Одномерный массив сумм: ");
     PrintArray(temp);
     return min;
-}*/
+}
 
 void Print2DArray(int [,] array)
 {
