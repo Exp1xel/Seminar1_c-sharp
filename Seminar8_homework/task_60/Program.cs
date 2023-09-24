@@ -24,7 +24,7 @@ void Fill3DArray(int[,,] array)
     for (int j = 0; j < array.GetLength(1); j++)
       for (int k = 0; k < array.GetLength(2); k++)
       {
-        array[i, j, k] = new Random().Next(10, 91);
+        array[i, j, k] = new Random().Next(10, 100);
       }
 }
 

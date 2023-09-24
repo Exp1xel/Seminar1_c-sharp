@@ -7,9 +7,9 @@
 5 2 6 7
 Программа считает сумму элементов в каждой строке и выдаёт номер строки с наименьшей суммой элементов: 1 строка
 */
-
-//НЕ ДОДЕЛАНО!
-
+//
+//          НЕ ДОДЕЛАНО К ДЕДЛАЙНУ!!! 
+//
 int InputNum (string message){
     Console.WriteLine(message);
     return int.Parse(Console.ReadLine()!);
